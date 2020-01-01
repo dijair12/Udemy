@@ -1,0 +1,7 @@
+.col{
+	background: grey;
+	border: 1px solid red;
+}
+	.row{
+		margin-left: 40px;
+	}
